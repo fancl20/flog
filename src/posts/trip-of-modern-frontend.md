@@ -34,3 +34,7 @@ author:
 * 因为所有 blog 都被打包在一个 webpack 里面，可能需要研究下怎么分 chunk。
 * 代码高亮和 latex 支持。代码高亮好说，highlight.js，latex 就...随缘吧好像不太好整合。
 * 图片支持。先外链吧有心情我再想怎么搞（
+
+### UPDATE: 2018-09-13
+
+试图升级了一下依赖一堆 deprecated, 改了半天也没修好，只能重新创建一个了，要改的东西倒是和原来一样一会儿就弄好了。 **Welcome to front end!**
