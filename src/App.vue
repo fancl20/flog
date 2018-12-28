@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/post">Posts</router-link> |
+      <router-link to="/post">Posts</router-link>|
       <router-link to="/post/about">About</router-link>
     </div>
     <div id="content">
@@ -12,7 +12,7 @@
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
@@ -46,5 +46,9 @@ body {
 
 #nav a.router-link-exact-active {
   font-weight: bold;
+}
+
+code {
+  overflow-x: auto;
 }
 </style>
