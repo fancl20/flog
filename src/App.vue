@@ -48,7 +48,7 @@ body {
   font-weight: bold;
 }
 
-code {
+pre {
   overflow-x: auto;
 }
 </style>
